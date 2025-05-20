@@ -22,5 +22,5 @@ Welcome to the **FinShield Backend** – the secure and scalable server-side bac
 - **dotenv** – Environment variable management
 - **Cors** – Cross-origin request handling
 
-## 📁 Folder Structure
+📁 Folder Structure
 
